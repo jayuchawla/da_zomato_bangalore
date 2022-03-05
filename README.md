@@ -25,4 +25,6 @@
 -   rate column:
     -   all values don't follow same pattern (num.num/5), contain None, Nan, NEW, - too
     -   cleaned values are obtained by writing a custom utility (matches_pattern)
-
+-   votes column:
+    -   all values are integers
+    -   no negative values
