@@ -37,4 +37,7 @@
     -   no dual names
 -   dish_liked column (unique values extracted to a list):
     -   multi-valued
-    - dual names found (to be handled in feature engineering phase)
+    -   dual names found (to be handled in feature engineering phase)
+-   cuisines(unique values extracted to a list):
+    -   multi-valued
+    -   dual names found (to be handled in feature engineering phase)
