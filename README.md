@@ -28,3 +28,13 @@
 -   votes column:
     -   all values are integers
     -   no negative values
+-   location column:
+    -   all values are object type
+    -   no invalid characters or strange values
+    -   no dual names (for e.g. x yz and xyz are dual names)
+-   rest_type column (unique values extracted to a list):
+    -   multi-valued
+    -   no dual names
+-   dish_liked column (unique values extracted to a list):
+    -   multi-valued
+    - dual names found (to be handled in feature engineering phase)
