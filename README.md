@@ -46,4 +46,5 @@
     -   removed separators
 -   menu_item:
     -   replaced '[]' by Not Provided
--   
+-   listed_in(city), listed_in(type)
+    -   cleaning not required
