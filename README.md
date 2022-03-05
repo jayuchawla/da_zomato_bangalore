@@ -43,4 +43,7 @@
     -   dual names found (to be handled in feature engineering phase)
 -   approx_cost:
     -   replaced null by 0 (will use central tendency in fe phase)
-    -   removed separators 
+    -   removed separators
+-   menu_item:
+    -   replaced '[]' by Not Provided
+-   
