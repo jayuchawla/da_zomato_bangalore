@@ -41,3 +41,6 @@
 -   cuisines(unique values extracted to a list):
     -   multi-valued
     -   dual names found (to be handled in feature engineering phase)
+-   approx_cost:
+    -   replaced null by 0 (will use central tendency in fe phase)
+    -   removed separators 
