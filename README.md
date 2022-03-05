@@ -20,4 +20,9 @@
     -   reviews_list
     -   menu_item
 
+## Cleaning Data
+-   online_order and book_table have no null values and each value is a binary
+-   rate column:
+    -   all values don't follow same pattern (num.num/5), contain None, Nan, NEW, - too
+    -   cleaned values are obtained by writing a custom utility (matches_pattern)
 
